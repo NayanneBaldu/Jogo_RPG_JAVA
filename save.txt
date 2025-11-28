@@ -1,0 +1,2 @@
+beg;45;100;20;10;3
+Ogro de Pedra;120;25;8;ogro_de_pedra.png
